@@ -8,6 +8,9 @@ sparing boot
 -Java 17
 -Packaging: Jar
 
+최종 논문
+[캡스톤디자인_논문_3조.pdf](https://github.com/MJU-capstone2023/JobBrief-Backend/files/13365113/_._3.pdf)
+
 요구사항 정의
 <img width="1390" alt="image" src="https://github.com/MJU-capstone2023/JobBrief-Backend/assets/126501685/7b16d3ce-ec67-49f0-a2aa-38aaec121312">
 
